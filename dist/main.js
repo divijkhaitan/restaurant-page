@@ -1,0 +1,1 @@
+(()=>{const t=document.querySelector("#content"),e=document.createElement("div");e.textContent="Heart of India",e.classList.add("title"),t.appendChild(e);const n=document.createElement("div");n.textContent="We are a group of homesick Indians hoping to bring the Heart of India (its food) to the streets of Japan",n.classList.add("about"),t.appendChild(n)})();
